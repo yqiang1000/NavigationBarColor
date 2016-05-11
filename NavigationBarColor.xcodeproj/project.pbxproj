@@ -15,6 +15,8 @@
 		B8C246AD1CE2CB7A0035ACBE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8C246AB1CE2CB7A0035ACBE /* LaunchScreen.storyboard */; };
 		B8C246B81CE2CB7A0035ACBE /* NavigationBarColorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B8C246B71CE2CB7A0035ACBE /* NavigationBarColorTests.m */; };
 		B8C246C31CE2CB7A0035ACBE /* NavigationBarColorUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B8C246C21CE2CB7A0035ACBE /* NavigationBarColorUITests.m */; };
+		B8C246D61CE2D9950035ACBE /* UINavigationBar+Awesome.m in Sources */ = {isa = PBXBuildFile; fileRef = B8C246D41CE2D9950035ACBE /* UINavigationBar+Awesome.m */; };
+		B8C246D81CE2E04B0035ACBE /* H8C{TP21G[CH]GGEDJY[M5E.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B8C246D71CE2E04B0035ACBE /* H8C{TP21G[CH]GGEDJY[M5E.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,9 @@
 		B8C246BE1CE2CB7A0035ACBE /* NavigationBarColorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NavigationBarColorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8C246C21CE2CB7A0035ACBE /* NavigationBarColorUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NavigationBarColorUITests.m; sourceTree = "<group>"; };
 		B8C246C41CE2CB7A0035ACBE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B8C246D41CE2D9950035ACBE /* UINavigationBar+Awesome.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UINavigationBar+Awesome.m"; sourceTree = "<group>"; };
+		B8C246D51CE2D9950035ACBE /* UINavigationBar+Awesome.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UINavigationBar+Awesome.h"; sourceTree = "<group>"; };
+		B8C246D71CE2E04B0035ACBE /* H8C{TP21G[CH]GGEDJY[M5E.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "H8C{TP21G[CH]GGEDJY[M5E.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,7 +113,10 @@
 				B8C246A61CE2CB7A0035ACBE /* Main.storyboard */,
 				B8C246A91CE2CB7A0035ACBE /* Assets.xcassets */,
 				B8C246AB1CE2CB7A0035ACBE /* LaunchScreen.storyboard */,
+				B8C246D41CE2D9950035ACBE /* UINavigationBar+Awesome.m */,
+				B8C246D51CE2D9950035ACBE /* UINavigationBar+Awesome.h */,
 				B8C246AE1CE2CB7A0035ACBE /* Info.plist */,
+				B8C246D71CE2E04B0035ACBE /* H8C{TP21G[CH]GGEDJY[M5E.jpg */,
 				B8C2469D1CE2CB7A0035ACBE /* Supporting Files */,
 			);
 			path = NavigationBarColor;
@@ -246,6 +254,7 @@
 				B8C246AD1CE2CB7A0035ACBE /* LaunchScreen.storyboard in Resources */,
 				B8C246AA1CE2CB7A0035ACBE /* Assets.xcassets in Resources */,
 				B8C246A81CE2CB7A0035ACBE /* Main.storyboard in Resources */,
+				B8C246D81CE2E04B0035ACBE /* H8C{TP21G[CH]GGEDJY[M5E.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,6 +282,7 @@
 				B8C246A51CE2CB7A0035ACBE /* ViewController.m in Sources */,
 				B8C246A21CE2CB7A0035ACBE /* AppDelegate.m in Sources */,
 				B8C2469F1CE2CB7A0035ACBE /* main.m in Sources */,
+				B8C246D61CE2D9950035ACBE /* UINavigationBar+Awesome.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
